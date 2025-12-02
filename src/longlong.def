@@ -1,0 +1,7 @@
+LIBRARY "longlong"
+EXPORTS
+    Supports
+    Load
+    Unload
+    AmxLoad
+    AmxUnload
